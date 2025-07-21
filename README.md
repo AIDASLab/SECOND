@@ -15,5 +15,6 @@ pip install -e .
 
 
 2. Run SECOND using
-<pre><code>./run.sh
+<pre><code>cd SECOND/lmms-eval-vicuna
+./run.sh
 </code></pre>
