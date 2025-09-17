@@ -49,8 +49,4 @@ If you find this work useful, please consider citing:
 }
 ```
 
----
 
-## 🙌 Acknowledgements
-
-This project page template is adapted from [Nerfies](https://nerfies.github.io/).
