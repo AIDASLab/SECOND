@@ -4,9 +4,8 @@ This repository provides the official PyTorch implementation of the following pa
 
 **SECOND: Mitigating Perceptual Hallucination in Vision-Language Models via Selective and Contrastive Decoding**
 
-- 📄 [Paper (arXiv)](https://arxiv.org/abs/2506.08391)  
-- 🌐 [Project Page](https://aidaslab.github.io/SECOND/)  
-- 💻 [Code](https://github.com/AIDASLab/SECOND)  
+📄 [Paper (arXiv)](https://arxiv.org/abs/2506.08391)  
+🌐 [Project Page](https://aidaslab.github.io/SECOND/)  
 
 ---
 
